@@ -27,7 +27,7 @@ sudo python sniffer.py
 ```
 ## 📸 Output Example
 ![Network Sniffer Output](doc/Net-1.png)
-
+![Network Sniffer Output](doc/net.png)
 
 ---
 
